@@ -40,6 +40,18 @@ a:hover, a:active{
     color: #d4b44c;
 }
 
+<<<<<<< HEAD
+/* 
+Challenge:
+1. Refactor the CSS for these button-style
+   links using two classes on each link
+   element.
+⚠️ Think what to call the new class you
+   will need to create.
+*/
+
+=======
+>>>>>>> b0bf713a77f0962163bca38187a3dfd319672a2d
 .btn{
     padding: 10px 19px;
     border-radius: 4.6px;
@@ -105,4 +117,8 @@ header, .section-two{
 footer{
     text-align: center;
     color: #5f29a3;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> b0bf713a77f0962163bca38187a3dfd319672a2d
